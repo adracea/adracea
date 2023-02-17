@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=adracea&show_icons=true&theme=transparent">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adracea&layout=compact&theme=transparent&langs_count=6&hide=javascript,c%2B%2B">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adracea&layout=compact&theme=transparent&langs_count=6&hide=c%2B%2B">
 
 ### Current projects:
 
