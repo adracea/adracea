@@ -1,10 +1,9 @@
-### <img src="https://media.tenor.com/Bks2Si272y4AAAAd/obi-wan-kenobi-hello-there.gif"  alt="" width="143px">
+![](https://media.tenor.com/Bks2Si272y4AAAAd/obi-wan-kenobi-hello-there.gif)
 
 ### Stats about my activity:
 
-<img src="https://github-readme-stats.vercel.app/api?username=adracea&show_icons=true&theme=transparent">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adracea&layout=compact&theme=transparent&langs_count=6&hide=c%2B%2B">
+[![](https://github-readme-stats.vercel.app/api?username=adracea&show_icons=true&theme=transparent)](https://github.com/adracea)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=adracea&layout=compact&theme=transparent&langs_count=6&hide=c%2B%2B)](https://github.com/adracea)
 
 ### Current projects:
 
